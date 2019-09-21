@@ -1,0 +1,52 @@
+.food-image{
+    width: 100%;
+    height:100%;
+}
+.wrapper {
+    max-width: 958px;
+    margin: auto;
+    border-width: 20px;
+    background-color: olivedrab;
+}
+
+.img-container {
+    width: 40%;
+    
+
+}
+
+#cake {
+    width:950px;
+}
+
+.text-center {
+    text-align:center;
+    font-family:lobster;
+    color:whitesmoke;
+}
+
+#flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+
+p {
+    margin-left:15px;
+}
+#pan-fried-haddock-fillets-dish{
+    width:958px;
+}
+#fragipane-tart-dish{
+    width:958px;
+}
+#hassle-back-potatoes{
+    width:958px;
+}
+#dressed-crab-dish{
+    width:958px;
+}
+#beef-and-stack-potatoes-cake{
+    width:958px;
+}
